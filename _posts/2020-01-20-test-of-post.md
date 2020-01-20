@@ -7,9 +7,14 @@ img: js-1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [테스트, 서울, 인천, 코딩]
 ---
-안녕하세요 이글을 테스트 글입니다.
-수정해보았습니다.
-지안이를 사랑합니다.
-![js배너이미지](../img/js-1.png)
-테스트 입니다.  줄바꿈  줄바꿈  
+안녕하세요 이글은  
+테스트 글입니다.  
+수정해보았습니다.  
+지안이를 사랑합니다.  
+  
+![js배너이미지](../assets/img/js-1.png)  
+  
+테스트 입니다.  
+줄바꿈  
+줄바꿈  
 사진등록 성공
