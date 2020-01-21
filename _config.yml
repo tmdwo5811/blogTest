@@ -12,12 +12,12 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: SANT_J  SeungJae Yoon # add your name
-author-img: mainProfile.png # add your photo
+author-img: KakaoTalk_20200121_160404696.png # add your photo
 about-author: 개인 설명 좌르르르륵  # add description
-//social-twitter: # add your Twitter handle
-social-facebook: https://web.facebook.com/seungjae.yoon.77 # add your Facebook handle
+social-twitter: none # add your Twitter handle
+social-facebook: seungjae.yoon.77 # add your Facebook handle
 social-github: tmdwo5811 # add your Github handle
-// social-linkedin: # add your Linkedin handle
+social-linkedin: none # add your Linkedin handle
 social-email: tmdwo5811@gmail.com # add your Email address
 
 # Disqus

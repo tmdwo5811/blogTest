@@ -32,7 +32,7 @@ tags: [모각코, 서울, 인천, 코딩, 자바, java, spring, 스프링 게시
 도메인 : dto, dao, repository
 어플리케이션 : service  
   
-```mermaid
+``` mermaid
 graph LR
 A[컨트롤러 호출] --> B[서비스 호출]
 B --> C[dao호출]
