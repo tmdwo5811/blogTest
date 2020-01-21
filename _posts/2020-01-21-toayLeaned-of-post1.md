@@ -5,7 +5,7 @@ date: 2020-01-21 14:33:20 +0900
 description: 모각코의 마지막 모임에 공부한 내용 # Add post description (optional)
 img: 0121_main.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [모각코, 서울, 인천, 코딩, 자바, java, spring, 스프링 게시판]
+tags: [spring board, 스프링 게시판]
 ---
 ## 프로젝트 파일 구조를 변경하게된 이유
   
