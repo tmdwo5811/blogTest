@@ -1,6 +1,6 @@
 remote_theme : artemsheludko/flexible-jekyll
 
-title: Hello, world! I'm David Freeman
+title: Hello, world! I'm SantJ
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -19,7 +19,7 @@ social-facebook: seungjae.yoon.77 # add your Facebook handle
 social-github: tmdwo5811 # add your Github handle
 social-linkedin: none # add your Linkedin handle
 social-email: tmdwo5811@gmail.com # add your Email address
-
+favicon: "assets/img/gitblog_oci.ico"
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
 
