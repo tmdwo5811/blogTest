@@ -19,7 +19,8 @@ social-facebook: seungjae.yoon.77 # add your Facebook handle
 social-github: tmdwo5811 # add your Github handle
 social-linkedin: none # add your Linkedin handle
 social-email: tmdwo5811@gmail.com # add your Email address
-favicon: "assets/img/gitblog_oci.ico"
+favicon: "assets/img/js-1.png" #파비콘 추가 링크
+
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
 
