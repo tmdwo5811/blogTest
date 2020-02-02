@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "https://tmdwo5811.github.io" # the subpath of your site, e.g. /blog
-url: "https://tmdwo5811.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "http://tmdwo5811.github.io" # the subpath of your site, e.g. /blog
+url: "http://tmdwo5811.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
@@ -19,7 +19,6 @@ social-facebook: seungjae.yoon.77 # add your Facebook handle
 social-github: tmdwo5811 # add your Github handle
 social-linkedin: none # add your Linkedin handle
 social-email: tmdwo5811@gmail.com # add your Email address
-favicon: "assets/img/js-1.png" #파비콘 추가 링크
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
